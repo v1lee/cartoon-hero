@@ -1,0 +1,1 @@
+srcds -game csgo -tickrate 128 -console -usercon -maxplayers_override 10 +sv_setsteamaccount 2287D6D55D1587EE781E016C5D38EBFB +game_type 0 +game_mode 1 +mapgroup mg_active +map de_mirage +sv_lan 0
